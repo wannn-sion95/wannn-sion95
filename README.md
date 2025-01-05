@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I like coding<br>📚 I'm currently learning Programming<br>🎯 Goals: Made AI<br>🎲 Fun fact: I'm Newbie</p>
+<p align="left">✨ I like coding<br>📚 I'm currently learning Programming Focused on developing practical solutions and learning new skills to stay ahead in the tech industry.<br>🎯 Goals: Made AI<br>🎲 Fun fact: I'm Newbie</p>
 
 ###
 
