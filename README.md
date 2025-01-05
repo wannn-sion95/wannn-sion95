@@ -41,7 +41,7 @@
 </br>
 </br>
 
-<h4>Anya Rahmadani</h4>
+<h2>Anya Rahmadani</h2>
  
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvbHIxOTRmNTZ1NmVsd2FqYmswN21oN3Qzemhud3lxcmVjeW45MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxPhEh5yYHkviFtLUy/giphy.gif" />
