@@ -38,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/wannn-sion95/wannn-sion95/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvbHIxOTRmNTZ1NmVsd2FqYmswN21oN3Qzemhud3lxcmVjeW45MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxPhEh5yYHkviFtLUy/giphy.gif" />
