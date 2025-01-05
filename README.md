@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">About Me<br><br>Student at Electronic Engineering Polytechnic Institute of Surabaya</h2>
+<h2 align="left">About Me:<br><br>Student at Electronic Engineering Polytechnic Institute of Surabaya</h2>
 
 ###
 
