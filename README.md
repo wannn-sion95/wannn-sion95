@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wannn Sion and I'm a student, from Indonesia</p>
+<p align="left">My name is Mhd. Ridwan, and I am usually called Wannn Sion and I'm a student, from Indonesia</p>
 
 ###
 
