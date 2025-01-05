@@ -11,8 +11,8 @@
 ###
 
 <h2 align="left">About Me</h2>
-  <h3><br>Student at Electronic Engineering Polytechnic Institute of Surabaya</h3>
-
+  <h3>Student at Electronic Engineering Polytechnic Institute of Surabaya</h3>
+</br>
 ###
 
 <h2 align="left">Programming Language:</h2>
