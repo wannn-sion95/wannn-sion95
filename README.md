@@ -15,7 +15,7 @@
 </br>
 
 
-<h2 align="left">Programming Language:</h2>
+<h2 align="left">Programming Languages:</h2>
 
 ###
 
@@ -37,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img width="12" />
 </div>
 
 </br>
