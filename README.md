@@ -14,12 +14,6 @@
   <h3>Student at Electronic Engineering Polytechnic Institute of Surabaya and I am taking a Applied Bachelor's degree in Telecommunications Engineering</h3>
 </br>
 
-<h2>Coding makes me sleepy</h2>
- 
-<div align="center">
-  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvbHIxOTRmNTZ1NmVsd2FqYmswN21oN3Qzemhud3lxcmVjeW45MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxPhEh5yYHkviFtLUy/giphy.gif" />
-</div>
-
 ###
 
 <h2 align="left">Social Media:</h2>
