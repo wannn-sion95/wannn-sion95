@@ -9,8 +9,8 @@
 ╚═╝  ╚═╝╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-# Hey there! I'm **Mhd. Ridwan** 👋
-### aka `wannn_sion` · Telecom Engineering Student · Indonesia 🇮🇩
+# Hai! I'm **Mhd. Ridwan** 👋
+### aka `wannn_sion` · Telecommunication Engineering Student · Indonesia 🇮🇩
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Telecommunications+Engineering+Student;AI+Enthusiast+%F0%9F%A4%96;Building+Practical+Solutions;Always+Learning%2C+Never+Stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
