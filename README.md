@@ -1,122 +1,90 @@
 <div align="center">
 
-```
-██████╗ ██╗██████╗ ██╗    ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║██╔══██╗██║    ██║██╔══██╗████╗  ██║
-██████╔╝██║██║  ██║██║ █╗ ██║███████║██╔██╗ ██║
-██╔══██╗██║██║  ██║██║███╗██║██╔══██║██║╚██╗██║
-██║  ██║██║██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header"/>
 
-# Hai! I'm **Mhd. Ridwan** 👋
-### aka `wannn_sion` · Telecommunication Engineering Student · Indonesia 🇮🇩
+# Mhd. Ridwan
+**Telecommunications Engineering Student · PENS Surabaya · Indonesia**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Telecommunications+Engineering+Student;AI+Enthusiast+%F0%9F%A4%96;Building+Practical+Solutions;Always+Learning%2C+Never+Stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunications;Focused+on+AI+%26+Practical+Development;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
-
-## 🧑‍💻 About Me
-
-```python
-class Ridwan:
-    name        = "Mhd. Ridwan"
-    nickname    = "Wannn Sion"
-    location    = "Surabaya, Indonesia 🇮🇩"
-    education   = "Applied Bachelor's — Telecommunications Engineering"
-    university  = "PENS (Politeknik Elektronika Negeri Surabaya)"
-    status      = "Student & Aspiring Developer"
-
-    interests   = ["Coding 💻", "AI & Machine Learning 🤖", "Telecommunications 📡"]
-    goal        = "Build my own AI someday 🎯"
-    currently   = "Learning Programming & Developing Practical Solutions"
-    fun_fact    = "Started as a total newbie — still leveling up! 🎲"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something cool together 🚀")
-```
-
----
-
-## 🚀 Skills & Technologies
-
-> Currently learning and experimenting with:
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@mewannnsion95)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035657014919)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wannn_sion/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/wannnsion95)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## About
+
+I'm a **Telecommunications Engineering** student at the Electronic Engineering Polytechnic Institute of Surabaya (PENS), pursuing an Applied Bachelor's degree. I'm passionate about building practical, meaningful software — and working steadily toward my long-term goal of developing AI systems.
+
+I believe in learning by doing: shipping real projects, breaking things, and improving every day.
+
+- 📍 Based in **Surabaya, Indonesia**
+- 🎓 Studying **Applied Bachelor's — Telecommunications Engineering** at **PENS**
+- 🤖 Long-term goal: **Build and deploy my own AI system**
+- 🌱 Currently deepening skills in **programming fundamentals & applied tech**
+- ⚡ Always open to collaborating on interesting projects
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wannnsion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wannnsion&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="48%" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=wannnsion&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannnsion&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannnsion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="40%" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wannnsion&theme=github-compact&hide_border=true&area=true" width="96%" />
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Goals
+## Goals for 2025–2026
 
-- 🤖 **Build an AI** — my biggest dream & long-term goal
-- 📡 **Master Telecommunications Engineering** at PENS
-- 💡 **Develop practical projects** that solve real problems
-- 📚 **Stay consistent** — learning something new every single day
-- 🌐 **Contribute to Open Source** community
+| # | Goal | Status |
+|---|------|--------|
+| 01 | Graduate with strong academic performance | 🟡 In progress |
+| 02 | Build 5 complete, deployable projects | 🟡 In progress |
+| 03 | Contribute to an open source repository | ⬜ Planned |
+| 04 | Earn a recognized programming certification | ⬜ Planned |
+| 05 | Develop a working AI prototype | ⬜ Planned |
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/wannnsion95)
-
-> *"Every expert was once a beginner."*  
-> — Starting from zero, heading to infinity 🚀
-
-</div>
-
----
-
-## 🌐 Let's Connect!
+<br/>
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-wannnsion-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mewannnsion95)
-[![Facebook](https://img.shields.io/badge/Facebook-Mhd.Ridwan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035657014919)
-[![Instagram](https://img.shields.io/badge/Instagram-@wannn__sion-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wannn_sion/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-wannnsion95-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/wannnsion95)
+![Profile Views](https://komarev.com/ghpvc/?username=wannnsion&style=flat-square&color=58A6FF&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/wannnsion?style=flat-square&color=58A6FF)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=wannnsion&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
-*✨ "The journey of a thousand commits begins with a single `git init`." ✨*
-
-**Thanks for stopping by! Drop a ⭐ if you like what you see!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer"/>
 
 </div>
