@@ -49,42 +49,4 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<br/>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wannnsion&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannnsion&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wannnsion&theme=github-compact&hide_border=true&area=true" width="96%" />
-
-</div>
-
-<br/>
-
-## Goals for 2025–2026
-
-| # | Goal | Status |
-|---|------|--------|
-| 01 | Graduate with strong academic performance | 🟡 In progress |
-| 02 | Build 5 complete, deployable projects | 🟡 In progress |
-| 03 | Contribute to an open source repository | ⬜ Planned |
-| 04 | Earn a recognized programming certification | ⬜ Planned |
-| 05 | Develop a working AI prototype | ⬜ Planned |
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=wannnsion&style=flat-square&color=58A6FF&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/wannnsion?style=flat-square&color=58A6FF)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer"/>
-
 </div>
