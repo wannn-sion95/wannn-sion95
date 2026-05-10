@@ -44,9 +44,6 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<br>
-![Used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wannn-sion95&theme=default)
-<br>
 
 
 **Tools & Platforms**
