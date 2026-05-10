@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header"/>
 
 # Mhd. Ridwan
-**Telecommunications Engineering Student · PENS Surabaya · Indonesia**
+**Telecommunications Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
+ · Indonesia**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunications;Focused+on+AI+%26+Practical+Development;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
