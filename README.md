@@ -33,7 +33,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 <br/>
 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wannn-sion95&theme=black-ice&border_radius=7&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wannn-sion95&theme=black-ice&border_radius=7&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" /></a>
 <br>
 
 ## Tech Stack
