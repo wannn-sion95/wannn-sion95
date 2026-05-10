@@ -45,7 +45,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 <br>
-!(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wannn-sion95&theme=default)
+![Used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wannn-sion95&theme=default)
 <br>
 
 
