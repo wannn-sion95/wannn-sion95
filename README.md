@@ -6,7 +6,7 @@
 **Telecommunications Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
  · Indonesia**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunications;Focused+on+AI+%26+Practical+Development;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunications;Focused+on+Cyber+%26+Security;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,9 +47,9 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 
 **Tools & Platforms**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KaliLinux-FCC624?style=flat-square&logo=kali-linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 </div>
