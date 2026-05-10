@@ -48,9 +48,8 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-FCC624?style=flat-square&logo=kali-linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
