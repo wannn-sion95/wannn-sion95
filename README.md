@@ -41,7 +41,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/RUST-1572B6?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/CPP-E34F26?style=flat-square&logo=c++&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black)
 
 
