@@ -6,7 +6,7 @@
 **Telecommunications Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
  · Indonesia**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunications+Engineering;Focused+on+Cyber+Security;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Applied+Bachelor's+in+Telecommunication+Engineering;Focused+on+Cyber+Security;Building+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
