@@ -45,7 +45,6 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,c,cpp,js,ts,rust,ubuntu,git,github,kali)](https://skillicons.dev)
 
 **Tools & Platforms**
 
