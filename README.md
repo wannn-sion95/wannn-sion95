@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a **Telecommunications Engineering** student at the Electronic Engineering Polytechnic Institute of Surabaya (PENS), pursuing an Applied Bachelor's degree. I'm passionate about building practical, meaningful software — and working steadily toward my long-term goal of developing AI systems.
+I'm a **Telecommunications Engineering** student at the Electronic Engineering Polytechnic Institute of Surabaya (EEPIS/PENS), pursuing an Applied Bachelor's degree. I'm passionate about building practical, meaningful software — and working steadily toward my long-term goal of Software Development & Cyber Security Analyst
 
 I believe in learning by doing: shipping real projects, breaking things, and improving every day.
 
