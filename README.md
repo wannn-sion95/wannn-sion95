@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1F6FEB,50:58A6FF,75:1F6FEB,100:0D1117&height=180&section=header&text=Mhd.%20Ridwan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20%C2%B7%20Cybersecurity%20%C2%B7%20Networking&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header"/>
 
 # Mhd. Ridwan
 **Telecommunications Engineering Student · Electronic Engineering Polytechnic Institute of Surabaya
