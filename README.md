@@ -25,9 +25,8 @@ I'm a **Telecommunications Engineering** student at the Electronic Engineering P
 I believe in learning by doing: shipping real projects, breaking things, and improving every day.
 
 - 📍 Based in **Surabaya, Indonesia**
-- 🎓 Studying **Applied Bachelor's — Telecommunications Engineering** at **PENS**
-- 🤖 Long-term goal: **Build and deploy my own AI system**
-- 🌱 Currently deepening skills in **programming fundamentals & applied tech**
+- 🎓 Studying **Applied Bachelor's — Telecommunication Engineering** at **EEPIS/PENS**
+- 🌱 Currently deepening skills in **programming fundamentals & Cybersecurity**
 - ⚡ Always open to collaborating on interesting projects
 
 <br/>
@@ -41,7 +40,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![C++](https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=c++&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-1572B6?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Golang-F7DF1E?style=flat-square&logo=golang&logoColor=black)
+![Go](https://img.shields.io/badge/Go-F7DF1E?style=flat-square&logo=go&logoColor=black)
 
 
 **Tools & Platforms**
