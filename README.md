@@ -27,7 +27,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 
 - 📍 Based in **Surabaya, Indonesia**
 - 🎓 Studying **Applied Bachelor's — Telecommunication Engineering** at **EEPIS/PENS**
-- 🌱 Currently deepening skills in **programming fundamentals & Cybersecurity**
+- 🌱 Currently deepening skills in **programming & Cybersecurity**
 - ⚡ Always open to collaborating on interesting projects
 
 <br/>
