@@ -47,10 +47,11 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 
 
 **Tools & Platforms**
-![VSCode](https://shields.io/badge/Vscode-E95420?style=flat-square&logo=vscode&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Kali Linux](https://shields.io)
+![VSCode](https://shields.io)
+
 
 </div>
