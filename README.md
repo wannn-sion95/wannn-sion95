@@ -13,7 +13,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@mewannnsion95)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035657014919)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wannn_sion/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/wannnsion95)
 
 </div>
 
@@ -25,10 +24,9 @@ I'm a **Telecommunications Engineering** student at the Electronic Engineering P
 
 I believe in learning by doing: shipping real projects, breaking things, and improving every day.
 
-- 📍 Based in **Surabaya, Indonesia**
-- 🎓 Studying **Applied Bachelor's — Telecommunication Engineering** at **EEPIS/PENS**
-- 🌱 Currently deepening skills in **programming & Cybersecurity**
-- ⚡ Always open to collaborating on interesting projects
+-  Based in **Surabaya, Indonesia**
+- Studying **Applied Bachelor's — Telecommunication Engineering** at **EEPIS/PENS**
+- Currently deepening skills in **Programming, Cybersecurity & Software Development**
 
 <br/>
 
@@ -47,11 +45,11 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 
 
 **Tools & Platforms**
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+
 
 
 </div>
