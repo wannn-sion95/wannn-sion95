@@ -41,15 +41,4 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-
-
-**Tools & Platforms**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-
-
 </div>
