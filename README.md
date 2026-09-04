@@ -47,7 +47,7 @@ I believe in learning by doing: shipping real projects, breaking things, and imp
 
 
 **Tools & Platforms**
-![VSCode](https://img.shields.io/badge/Vscode-E95420?style=flat-square&logo=vscode&logoColor=white)
+![VSCode](https://shields.io/badge/Vscode-E95420?style=flat-square&logo=vscode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
